@@ -1,7 +1,7 @@
 name: TomHaubner
 favicon: null
-layout_spectrum: 0.2580854813568294
-typography_spectrum: 0.8586817723698914
+layout_spectrum: 0.24435
+typography_spectrum: 0.14426
 title: Meine persönliche Seite
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6054280651733279
+    - '#ffffd9'
+    - '#230b09'
+    - '#ffc385'
+    - '#7a4535'
+    - '#de8255'
+  brandStrength: 0.625
   lightness: 0.13340922677889466
-  saturation: 0.9257516064681113
+  saturation: 0.875
   rhythmicContrast: 0.28032989450730383
 purpose: []
